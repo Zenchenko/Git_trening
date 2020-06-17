@@ -1,0 +1,8 @@
+[Псевдоним]
+  со = оформить заказ
+  ci = коммит
+  st = статус
+  br = ветвь
+  hist = log --pretty = формат: \ "% h% ad |% s% d [% an] \" --graph --date = short
+  type = cat-file -t
+  dump = cat-file -p
